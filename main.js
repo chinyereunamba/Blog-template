@@ -8,11 +8,3 @@ burger.addEventListener('click', () => {
     burger.classList.toggle('active');
     navBar.classList.toggle('show');
 })
-
-// window.addEventListener("scroll", function () {
-//   if (window.pageYOffset > 100) {
-//     nav.classList.add("transparency", "shadow");
-//   } else {
-//     nav.classList.remove("transparency", "shadow");
-//   }
-// });
